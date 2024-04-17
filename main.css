@@ -1,0 +1,43 @@
+.model-img{
+    width: 100%;
+    object-fit: contain;
+    border-radius: 20px;
+    
+}
+.overlay-section{
+    margin-top: 390px;
+}
+.overlay-section-text{
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-family: Roboto Condensed;
+    font-size: 36px;
+    margin-bottom: 3px;
+}
+.overlay-section-price{
+    color: white;
+    padding-left: 5px;
+    font-size: 16px;
+    font-family: Roboto;
+    margin-bottom: 8px;
+}
+.overlay-section-button1{
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 100%;
+    height: 50px;
+    
+}
+.overlay-section-button2{
+    margin-top: 9px;
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 100%;
+    height: 50px;
+}
+.button1-text,.button2-text{
+    font-family: Roboto Condensed;
+    font-size: 20px;
+    font-weight: light;
+}

@@ -1,0 +1,33 @@
+.second-section{
+  
+    margin-top: 60px;
+    padding-left: 230px;
+    padding-right: 230px;
+}
+.box{
+    background-color: lightblue ;
+    height: 140px;
+}
+.info-pic{
+    width: 90%;
+    height: 100%;
+    text-align: center;
+    border-radius: 20px;
+   
+}
+.c-text{
+    position: relative;
+    text-align: center;
+}
+
+
+.text-info-pic{
+    position: absolute;
+    display: flex;
+    bottom: 4px;
+    color: white;
+    left: 40px;
+    font-size: 18px;
+    font-weight: 500;
+    font-family:  Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
